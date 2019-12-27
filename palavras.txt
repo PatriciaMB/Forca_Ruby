@@ -1,0 +1,13 @@
+casa
+ovo
+mundo
+flor
+texto
+rato
+gato
+cachorro
+jarra
+carro
+cadeira
+banco
+dinheiro
